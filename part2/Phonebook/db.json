@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "id": "fa86",
+      "name": "Omri anidgar",
+      "number": "053-2844980"
+    },
+    {
+      "id": "ddaa",
+      "name": "test",
+      "number": "123456"
+    },
+    {
+      "id": "c8fd",
+      "name": "enter a name..",
+      "number": "enter a number.."
+    },
+    {
+      "id": "7213",
+      "name": "test1",
+      "number": "12345"
+    }
+  ]
+}
