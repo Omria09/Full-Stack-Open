@@ -26,12 +26,12 @@ Each part of the course has a corresponding folder in the repository. Here’s t
 ├── part4
 ├── part5
 ├── part6
-└── part7
-└── part8
-└── part9
-└── part10
-└── part11
-└── part12
+├── part7
+├── part8
+├── part9
+├── part10
+├── part11
+├── part12
 └── part13
 ```
 
@@ -67,20 +67,20 @@ The course includes larger projects that integrate multiple technologies and con
 
 ## Progress
 
-- [x] Part 0
-- [x] Part 1
-- [x] Part 2
-- [x] Part 3
-- [ ] Part 4
-- [ ] Part 5
-- [ ] Part 6
-- [ ] Part 7
-- [ ] Part 8
-- [ ] Part 9
-- [ ] Part 10
-- [ ] Part 11
-- [ ] Part 12
-- [ ] Part 13
+- [x] Part 0 - Fundamentals 
+- [x] Part 1 - Introduction to React, JavaScript, Component state, event handlers, A more complex state, debugging React apps
+- [x] Part 2 - Rendering a collection, modules, Forms, Getting data from server, Altering data in server, Adding styles to React app
+- [x] Part 3 - Node.js and Express, Deploying app to internet, Saving data to MongoDB, Validation and ESLint
+- [ ] Part 4 - Structure of backend application, introduction to testing, Testing the backend, User administration, Token authentication, Legacy: Testing with Jest
+- [ ] Part 5 - Login in frontend, props.children and proptypes, Testing React apps, End to end testing: Playwright, End to end testing: Cypress
+- [ ] Part 6 - Flux-architecture and Redux, Many reducers, Communicating with server in a Redux application, React Query, useReducer and the context
+- [ ] Part 7 - React Router, Custom hooks, More about styles, Webpack, Class components, Miscellaneous, Exercises: extending the bloglist
+- [ ] Part 8 - GraphQL: GraphQL-server, React and GraphQL, Database and user administration , Login and updating the cache, Fragments and subscriptions
+- [ ] Part 9 - TypeScript: Background and introduction, First steps with TypeScript, Typing an Express app, React with types, Grande finale: Patientor
+- [ ] Part 10 - React Native: Introduction to React Native, React Native basics, Communicating with server, Testing and extending our application
+- [ ] Part 11 - CI/CD: Introduction to CI/CD, Getting started with GitHub Actions, Deployment, Keeping green, Expanding Further
+- [ ] Part 12 - Containters: Introduction to Containers, Building and configuring environments, Basics of Orchestration
+- [ ] Part 13 - Using relational databases with Sequelize, Join tables and queries, Migrations, many-to-many relationships
 
 *I will update this checklist as I complete each part.*
 
