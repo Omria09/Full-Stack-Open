@@ -27,6 +27,12 @@ Each part of the course has a corresponding folder in the repository. Here’s t
 ├── part5
 ├── part6
 └── part7
+└── part8
+└── part9
+└── part10
+└── part11
+└── part12
+└── part13
 ```
 
 Each folder contains the assignments and projects for that particular part.
@@ -69,6 +75,12 @@ The course includes larger projects that integrate multiple technologies and con
 - [ ] Part 5
 - [ ] Part 6
 - [ ] Part 7
+- [ ] Part 8
+- [ ] Part 9
+- [ ] Part 10
+- [ ] Part 11
+- [ ] Part 12
+- [ ] Part 13
 
 *I will update this checklist as I complete each part.*
 
